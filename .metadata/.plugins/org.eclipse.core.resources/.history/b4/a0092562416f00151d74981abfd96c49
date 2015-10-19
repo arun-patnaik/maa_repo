@@ -1,0 +1,24 @@
+package lakshmi;
+
+public class strcomparison {
+
+	public static void main(String[] args) {
+    String str="qedge";
+    String str1="qedgebhghgegf";
+   if(str.contains(str1))
+   {
+	   System.out.println("string is same");
+   }
+   else
+   {
+	   System.out.println("string is different");
+	   
+   }
+	String i="AJJU";
+	String j="ajju";
+	if(i)
+    
+
+	}
+
+}
